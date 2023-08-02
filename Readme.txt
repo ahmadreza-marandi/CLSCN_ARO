@@ -1,4 +1,4 @@
-•	"input" folder contains 9 instances from number 2 to number 10 (≈ 1-9).
+•	"input" folder contains 9 instances.
 •	All files with “_func” in their names are function.
 •	“Deterministic_v12” is the stand-alone code for solving deterministic problems.
 •	“Rsome_v12” is the stand-alone code for solving by RSOM.
